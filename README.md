@@ -21,4 +21,4 @@
 Самостоятельно разобрана архитектура, переписан код, добавлена обработка ошибок и улучшен дизайн.
 
 ## Демо
-https://github.com/katayanag1/inventory-management.git
+ https://katayanag1.github.io/inventory-management/
